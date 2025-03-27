@@ -1,0 +1,7 @@
+// Include functions first 
+// Include any default variable
+@import "bootstrap/scss/functions";
+@import "./variables";
+
+// Include remainder of required parts
+@import 'bootstrap/scss/bootstrap';
